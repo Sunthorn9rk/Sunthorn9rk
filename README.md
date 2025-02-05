@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sunthorn Rucknai
 ========================================================================================================================================
 
-Data Scientist
+
 --------------
 
 I am a 4th year student about to graduate. Prince of Songkla University studied Machine Learning and Data Analysts throughout my studies. I have the ability to write Python and am interested in using technology and data analysis skills to solve problems in the business world and industry. I am eager to learn more about Machine Learning and data analysis to enhance our ability to solve future business and industry problems.
