@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sunthorn Rucknai
 ========================================================================================================================================
 
-
+FreeLance Web Development
 --------------
 
-I am a 4th year student about to graduate. Prince of Songkla University studied Machine Learning and Data Analysts throughout my studies. I have the ability to write Python and am interested in using technology and data analysis skills to solve problems in the business world and industry. I am eager to learn more about Machine Learning and data analysis to enhance our ability to solve future business and industry problems.
+I’am Sunthorn Raknai, known as Stamp. I have been an internship as Data Science and now get a FRELANCE FULLSTACK DEVELOPER. Experienced about 1 year.
 
-* 🌍  I'm based in Songkhla, Thailand
+* 🌍  I'm based in Songkhla, Thailand Or Bangkok, Thailand
 * ✉️  You can contact me at [sunthorn.rk@gmail.com](mailto:sunthorn.rk@gmail.com)
 
 ### Skills
